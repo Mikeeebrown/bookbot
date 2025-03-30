@@ -1,3 +1,4 @@
+import sys
 from stats import (
     get_num_words,
     chars_dict_to_sorted_list,
